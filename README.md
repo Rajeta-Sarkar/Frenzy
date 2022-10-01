@@ -1,4 +1,4 @@
-# APPNAME
+# APP NAME
 
 ## 💡 Inspiration
 
