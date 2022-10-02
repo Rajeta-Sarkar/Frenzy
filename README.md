@@ -1,4 +1,4 @@
-# APP NAME
+# FRENZY
 
 ## 💡 Inspiration
 The inspiration of this project came from the diversity in the shark species which most people are curious about but at the same time unaware. This is solved very creatively by adding a automatic detection of the shark species by just using the picture.
