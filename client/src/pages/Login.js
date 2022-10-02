@@ -36,7 +36,7 @@ function LogIn() {
                     <div className="md:flex md:flex-col md:justify-center lg:pr-16">
 
                         <h2 className="mb-4 text-6xl self-center font-bold tracking-wider text-white">
-                            APP NAME
+                            FRENZY
                         </h2>
 
                         <div className="relative mt-4 outline-transparent outline">
@@ -50,9 +50,9 @@ function LogIn() {
                         </div>
 
                         <div className="w-full block bg-gradient-to-r from-purple-400 via-purple-500 to-pink-500 hover:shadow-lg font-semibold rounded-lg px-4 py-3 border border-gray-300 cursor-pointer shadow-lg my-8" onClick={loginUser}>
-                            <div className="flex items-center justify-center text-white">
+                            <Link to="/home"><div className="flex items-center justify-center text-white">
                                 Sign in
-                            </div>
+                            </div></Link>
                         </div>
 
                         <div className='text-white text-md text-right'>

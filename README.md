@@ -1,13 +1,14 @@
 # FRENZY
 
 ## 💡 Inspiration
+
 The inspiration of this project came from the diversity in the shark species which most people are curious about but at the same time unaware. This is solved very creatively by adding a automatic detection of the shark species by just using a picture. A lot of people like to do surfing and different water sports which is fun but at the same time they sometimes spot some water animals injured or in a unusual state. They don't have much choice there even if they want to help. Frenzy comes with a feature of contacting the helpline number whenever you spot any injured animal. The information is reached to the top faculties and the needful help is provided. This helps us go closer to helping animals in a more efficient way.
 
 ![image](https://user-images.githubusercontent.com/64153988/192069005-aa13a4ca-369a-4a0b-b422-bdd9715a937f.png)
 
 ## 💻 What it does
 
-Our web app "APP NAME" is built with features:
+Our web app "FRENZY" is built with features:
 
 - Mark the places where you saw any presence of a shark.
 - This marker will help other visitors or surfers to prevent going there.
@@ -65,7 +66,7 @@ We are using GitHub for the following reasons:
 
 ![image](https://user-images.githubusercontent.com/64153988/192069005-aa13a4ca-369a-4a0b-b422-bdd9715a937f.png)
 
-## 🚀 What's next for APP NAME
+## 🚀 What's next for FRENZY
 
 - Building a mobile application.
 - Creating my ML model.
